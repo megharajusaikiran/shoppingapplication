@@ -1,0 +1,28 @@
+.wholediv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-bottom: 50px;
+}
+.heading {
+  color: #616e7c;
+  font-size: 17px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.amount {
+  color: black;
+  font-weight: bold;
+}
+.para {
+  color: #616e7c;
+  font-size: 10px;
+  margin-top: 0px;
+}
+.checkoutbutton {
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  width: 140px;
+  border-style: none;
+}
